@@ -6,6 +6,25 @@
 
 ---
 
+## 🗂️ Project Structure
+📦 aarogya-shishu-App
+├── 📁 android                  # Android platform-specific code
+├── 📁 ios                      # iOS platform-specific code
+├── 📁 assets                   # Static assets like images, icons, fonts
+│   ├── 🖼️ images/             # App images and illustrations
+│   └── 🔤 fonts/              # Custom fonts used in app
+├── 📁 lib                      # Main source code for the Flutter app
+│   ├── 📁 screens             # All app UI screens
+│   ├── 📁 widgets             # Reusable widgets/components
+│   ├── 📁 models              # Data models and structures
+│   ├── 📁 services            # API and Firebase service files
+│   └── 📄 main.dart           # App entry point
+├── 📁 test                     # Unit and widget testing
+├── 📄 pubspec.yaml             # Project metadata and dependencies
+├── 📄 README.md                # Project documentation (you’re here!)
+└── 📄 .gitignore               # Files and folders to ignore in Git
+
+
 ## 🚀 Features
 
 - 📅 **Smart Vaccination Scheduler** – Get personalized vaccine schedules based on child’s birthdate.
@@ -30,26 +49,16 @@
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/aarogya-shishu-App.git
+   git clone https://github.com/genius-0963/aarogya-shishu-App.git
    cd aarogya-shishu-App
 
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-📸 Screenshots
-<p align="center"> <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200"/> <img src="https://via.placeholder.com/250x500.png?text=Schedule" width="200"/> <img src="https://via.placeholder.com/250x500.png?text=Tracker" width="200"/> </p>
-Add your own screenshots from the app folder or emulator.
-
-
-🚀 Getting Started
-
 # Clone the repo
-git clone https://github.com/your-username/aarogya-shishu-App.git
+git clone https://github.com/genius-0963/aarogya-shishu-App.git
 cd aarogya-shishu-App
 
 # Install dependencies
