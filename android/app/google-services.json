@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840889382334",
+    "project_id": "aarogya-sheshu",
+    "storage_bucket": "aarogya-sheshu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840889382334:android:220e241005cb731fa075ef",
+        "android_client_info": {
+          "package_name": "com.saurabh.aarogya_shishu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRx_ZBEKw8cpLN6O_ywqpzLDjI3MLTqEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
